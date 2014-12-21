@@ -1,0 +1,12 @@
+[submodule "Pi2cKeys"]
+	path = Pi2cKeys
+	url = https://github.com/bmnz/Pi2cKeys.git
+[submodule "PyI2C"]
+	path = PyI2C
+	url = https://github.com/amreuland/PyI2C.git
+[submodule "RPyPCA9685"]
+	path = RPyPCA9685
+	url = https://github.com/TimJay/RPyPCA9685.git
+[submodule "rpi2c"]
+	path = rpi2c
+	url = https://github.com/Gadgetoid/rpi2c.git
